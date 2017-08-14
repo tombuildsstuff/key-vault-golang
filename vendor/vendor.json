@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "0Eq/+1Tjm/R7LhkE5HHP7GS/bME=",
+			"path": "github.com/Azure/azure-sdk-for-go/arm/keyvault",
+			"revision": "0b09de4174ca0cadcd3abb4aa31267c6f5ccebbb",
+			"revisionTime": "2017-08-02T21:42:24Z"
+		},
+		{
+			"checksumSHA1": "OPENIo2BixjKgTu6mgwJvUdePLU=",
+			"path": "github.com/Azure/azure-sdk-for-go/arm/resources/resources",
+			"revision": "0b09de4174ca0cadcd3abb4aa31267c6f5ccebbb",
+			"revisionTime": "2017-08-02T21:42:24Z"
+		},
+		{
+			"checksumSHA1": "qhkTQ7MObExrkn9rLs0iRSQIYpU=",
+			"path": "github.com/Azure/azure-sdk-for-go/dataplane/keyvault",
+			"revision": "0b09de4174ca0cadcd3abb4aa31267c6f5ccebbb",
+			"revisionTime": "2017-08-02T21:42:24Z"
+		},
+		{
+			"checksumSHA1": "sTpdm+mR9vWz/qaKn/uwSPcj/Vs=",
+			"path": "github.com/Azure/go-autorest/autorest",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "KOETWLsF6QW+lrPVPsMNHDZP+xA=",
+			"path": "github.com/Azure/go-autorest/autorest/adal",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "2KdBFgT4qY+fMOkBTa5vA9V0AiM=",
+			"path": "github.com/Azure/go-autorest/autorest/azure",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "LSF/pNrjhIxl6jiS6bKooBFCOxI=",
+			"path": "github.com/Azure/go-autorest/autorest/date",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "Ev8qCsbFjDlMlX0N2tYAhYQFpUc=",
+			"path": "github.com/Azure/go-autorest/autorest/to",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "oBixceM+55gdk47iff8DSEIh3po=",
+			"path": "github.com/Azure/go-autorest/autorest/validation",
+			"revision": "0545944f0d7822e1c75b036402f6ca4a1ce7e570",
+			"revisionTime": "2017-08-09T23:39:18Z"
+		},
+		{
+			"checksumSHA1": "GXOurDGgsLmJs0wounpdWZZRSGw=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "a539ee1a749a2b895533f979515ac7e6e0f5b650",
+			"revisionTime": "2017-06-08T00:51:49Z"
+		},
+		{
+			"checksumSHA1": "iqUXcP3VA+G1/gVLRpQpBUt/BuA=",
+			"path": "github.com/satori/uuid",
+			"revision": "5bf94b69c6b68ee1b541973bb8e1144db23a194b",
+			"revisionTime": "2017-03-21T23:07:31Z"
+		}
+	],
+	"rootPath": "github.com/tombuildsstuff/key-vault-golang"
+}
